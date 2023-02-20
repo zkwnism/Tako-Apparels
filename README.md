@@ -1,3 +1,5 @@
+#Please take into note that this website is still under development
+
 Tako Apparels
 Welcome to Tako Apparels! This website is designed to showcase and sell t-shirts of various designs and sizes.
 
